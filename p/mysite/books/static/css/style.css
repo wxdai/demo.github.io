@@ -1,0 +1,129 @@
+
+/* YOUR CSS STYLES */
+body {
+    /*background-color: black;*/
+    background-color: #FFFAF4;
+}
+
+#choropleth-area {
+    margin-left: 70px;
+}
+
+
+h1 {
+    color: #743A3A;
+    font-weight: bold;
+    font-family: Serif;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+#quote{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 24px;
+    font-family: "Bradley Hand";
+    line-height: 30px;
+  }
+
+
+h2 {
+    font-family: Helvetica;
+    font-weight: 100;
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    color: #906666;
+}
+
+/*#leftColumn{
+    background-color: black;
+}
+
+#rightColumn{
+    background-color: black;
+}
+*/
+
+h3 {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+.africa-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding-right: 70px;
+}
+
+.unicef-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding-right: 100px;
+    padding-top: 100px;
+    line-height: 25px;
+}
+
+#Clean-Water-and-Sanitation {
+    font-size: 18px;
+    font-family: "Times New Roman";
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+}
+
+#cost {
+    font-size: 18px;
+    font-family: "Times New Roman";
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.to-do-text {
+    font-size: 18px;
+    font-family: "Times New Roman";
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
+
+.form-inline {
+    padding-left: 70px;
+}
+
+
+.bar:hover {
+    fill: #613030;
+}
+
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+.domain {
+    fill: none;
+    stroke: #888;
+    shape-rendering: crispEdges;
+}
+
+#chart-area text {
+    font-size: 11px;
+}
+
+.axis-label {
+    fill: #888;
+    font-size: 10px;
+}
+
+.d3-tip {
+    width: 200px;
+}
